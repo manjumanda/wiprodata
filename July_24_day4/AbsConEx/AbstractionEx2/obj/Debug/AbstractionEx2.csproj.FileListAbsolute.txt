@@ -1,0 +1,7 @@
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\bin\Debug\AbstractionEx2.exe.config
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\bin\Debug\AbstractionEx2.exe
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\bin\Debug\AbstractionEx2.pdb
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\obj\Debug\AbstractionEx2.csproj.AssemblyReference.cache
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\obj\Debug\AbstractionEx2.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\obj\Debug\AbstractionEx2.exe
+D:\wiprotraining\day4\AbsConEx\AbstractionEx2\obj\Debug\AbstractionEx2.pdb
