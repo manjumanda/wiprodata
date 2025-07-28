@@ -1,0 +1,8 @@
+D:\wiprotraining\day7\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+D:\wiprotraining\day7\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+D:\wiprotraining\day7\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+D:\wiprotraining\day7\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+D:\wiprotraining\day7\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day7\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+D:\wiprotraining\day7\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb
+D:\wiprotraining\day7\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe.config

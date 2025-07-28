@@ -1,0 +1,11 @@
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.csproj.AssemblyReference.cache
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\bin\Debug\ReflectionExample.exe
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\bin\Debug\ReflectionExample.pdb
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.exe
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.pdb
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.exe.config
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\bin\Debug\ClsReflectionExample.dll
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\bin\Debug\ClsReflectionExample.pdb
+D:\wiprotraining\day7\ReflectionExample\ReflectionExample\obj\Debug\Reflecti.500F67AC.Up2Date
