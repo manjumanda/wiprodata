@@ -1,7 +1,19 @@
 <html>
     <head>
         <script>
-            function doLogin() {
+            function doLogin() { 
+                if (frmLogin.userName.value == "") {
+                    document.getElementById("error1").innerHTML = "Please Enter User Name...";
+                    return;
+                } else {
+                    document.getElementById("error1").innerHTML = "";
+                }
+                if (frmLogin.passWord.value == "") {
+                    document.getElementById("error2").innerHTML = "Please Enter Password...";
+                    return;
+                } else {
+                    document.getElementById("error2").innerHTML = "";
+                }
                 var user = frmLogin.userName.value;
                 var pwd = frmLogin.passWord.value;
                 if (user=="wipro" && pwd == "wipro") {
@@ -23,12 +35,14 @@
                 <th>User Name</th>
                 <td>
                     <input type="text" name="userName" /> 
+                    <span id="error1" style="color: red;" /> 
                 </td>
             </tr>
             <tr>
                 <th>Password</th>
                 <td>
                     <input type="password" name="passWord" />
+                    <span id="error2" style="color: red;" />
                 </td>
             </tr>
             <tr>
