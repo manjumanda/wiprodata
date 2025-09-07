@@ -1,0 +1,82 @@
+/* General Page Styling */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #e0f7fa, #e1bee7);
+  min-height: 100vh;
+}
+
+/* Navbar Styling */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #4a148c;
+  padding: 15px 20px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Navbar Links */
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.navbar a:hover {
+  color: #ffeb3b;
+  transform: scale(1.05);
+}
+
+/* Logout Button */
+.navbar button {
+  margin-left: auto;
+  padding: 8px 16px;
+  background: #d32f2f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.navbar button:hover {
+  background: #b71c1c;
+  transform: scale(1.05);
+}
+
+/* Page Container */
+.page-container {
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 1100px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #4a148c;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .navbar a {
+    margin: 10px 8px;
+    font-size: 14px;
+  }
+  .navbar button {
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,67 @@
+/* LoginPage.css */
+.login-container {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  padding: 0 15px;
+}
+
+.login-title {
+  color: white;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+
+form {
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  padding: 30px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+input, button {
+  width: 100%;
+  padding: 12px;
+  margin: 15px 0;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+button {
+  background: #ff4081;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #ff80ab;
+}
+
+.error-message {
+  color: #ff4081;
+  margin: 10px 0;
+}
+
+.register-link {
+  color: white;
+  margin-top: 20px;
+}
+
+.register-link button {
+  background: none;
+  border: none;
+  color: #ff80ab;
+  cursor: pointer;
+  text-decoration: underline;
+}

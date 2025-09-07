@@ -1,0 +1,79 @@
+.submission-container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fefefe;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.submission-container h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+/* Grid layout for submissions */
+.submission-grid {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1fr;
+  gap: 15px;
+  align-items: center;
+}
+
+/* Header row */
+.submission-header {
+  font-weight: bold;
+  padding: 10px 0;
+  border-bottom: 2px solid #2196f3;
+  text-align: center;
+  color: #2196f3;
+}
+
+/* Grid cells */
+.submission-grid > div {
+  padding: 10px;
+  background-color: #f7f9fc;
+  border-radius: 8px;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.submission-grid > div:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+/* Grade color coding */
+.grade-good {
+  background-color: #d4edda;
+  color: #155724;
+  font-weight: bold;
+}
+
+.grade-average {
+  background-color: #fff3cd;
+  color: #856404;
+  font-weight: bold;
+}
+
+.grade-pending {
+  background-color: #f8d7da;
+  color: #721c24;
+  font-weight: bold;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .submission-grid {
+    grid-template-columns: 1fr;
+  }
+  .submission-header {
+    display: none;
+  }
+  .submission-grid > div {
+    text-align: left;
+  }
+}

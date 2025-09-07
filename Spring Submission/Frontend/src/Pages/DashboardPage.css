@@ -1,0 +1,108 @@
+/* DashboardPage.css */
+.dashboard-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  display: flex;
+  flex-direction: column;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffd700; /* Gold */
+  text-shadow: 1px 1px 6px rgba(0,0,0,0.7);
+}
+
+.nav-links .logout-btn {
+  background: linear-gradient(135deg, #ff6f61, #ff3b2e);
+  border: none;
+  padding: 10px 22px;
+  border-radius: 25px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(255,111,97,0.4);
+}
+
+.nav-links .logout-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(255,111,97,0.5);
+}
+
+.dashboard-content {
+  text-align: center;
+  padding: 80px 20px;
+  flex: 1;
+}
+
+.welcome-text {
+  font-size: 42px;
+  margin-bottom: 15px;
+  color: #ffffff;
+  text-shadow: 2px 2px 12px rgba(0,0,0,0.7);
+}
+
+.subtitle {
+  font-size: 22px;
+  margin-bottom: 50px;
+  color: #a0e7e5; /* Soft cyan */
+  text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 25px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
+  padding: 30px 20px;
+  font-size: 22px;
+  color: #ffd700; /* Gold text */
+  font-weight: 600;
+  transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  text-shadow: 1px 1px 6px rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: floatCard 6s ease-in-out infinite;
+}
+
+.card:hover {
+  transform: scale(1.08);
+  background: rgba(255, 255, 255, 0.25);
+  color: #00e5ff; /* Cyan on hover */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+@keyframes floatCard {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+  100% { transform: translateY(0); }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .welcome-text { font-size: 34px; }
+  .subtitle { font-size: 18px; }
+  .card { font-size: 18px; padding: 25px 15px; }
+}

@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\olmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\olmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\olms project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\olms project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\enrolmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\enrolmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\submissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\submissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\enrolments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\enrolments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\cred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\cred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\enrolmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\enrolmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\assignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\assignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\dto\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\dto\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|d:\\wiprotraining\\olms project\\olms project\\olms project\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F861003A-11A6-41A2-8FDE-145AF8D0251E}|OLMS Project\\OLMS Project.csproj|solutionrelative:olms project\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\UserLoginDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:00:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\UserRegisterDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\UserRegisterDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:01:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OlmsDbContext.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\OlmsDbContext.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\OlmsDbContext.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\OlmsDbContext.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\OlmsDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:51:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\appsettings.json",
+              "RelativeDocumentMoniker": "OLMS Project\\appsettings.json",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\appsettings.json",
+              "RelativeToolTip": "OLMS Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T06:52:28.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:01:28.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructors.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Instructors.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Instructors.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Instructors.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Instructors.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:33:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:57:03.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstructorDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\InstructorDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\InstructorDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\InstructorDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\InstructorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:03:01.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Program.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Program.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Program.cs",
+              "RelativeToolTip": "OLMS Project\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:10:50.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\IAuthService.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\IAuthService.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:57:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OLMS Project.csproj",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\OLMS Project.csproj",
+              "RelativeDocumentMoniker": "OLMS Project\\OLMS Project.csproj",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\OLMS Project.csproj",
+              "RelativeToolTip": "OLMS Project\\OLMS Project.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T05:05:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Courses.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Courses.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:30:00.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\AuthService.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\AuthService.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:56:41.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:26:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnrolmentsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\EnrolmentsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\EnrolmentsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\EnrolmentsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\EnrolmentsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAWwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:10:58.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubmissionsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\SubmissionsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\SubmissionsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\SubmissionsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\SubmissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:30:59.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA3wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:26:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:21:22.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Users.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Users.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:32:48.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:40:16.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Submissions.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Submissions.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Submissions.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Submissions.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Submissions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:55:15.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enrolments.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Enrolments.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Enrolments.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Enrolments.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Enrolments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:35:59.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\JwtSettings.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:58:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cred.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Cred.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Cred.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Cred.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Cred.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:52:02.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:45:23.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:40:59.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\AdminsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:38:48.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuizzesController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\QuizzesController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\QuizzesController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\QuizzesController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\QuizzesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:57:55.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Questions.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Questions.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Questions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:44:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\QuestionsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAIBQwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:57:12.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuestionDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\QuestionDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\QuestionDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\QuestionDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\QuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:30:38.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QuizDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\QuizDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\QuizDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\QuizDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\QuizDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:19:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubmissionDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\SubmissionDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\SubmissionDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\SubmissionDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\SubmissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:23:04.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Payments.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Payments.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Payments.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:45:41.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\PaymentDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\PaymentDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:27:53.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\NotificationDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\NotificationDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:24:42.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Quizzes.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Quizzes.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Quizzes.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Quizzes.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Quizzes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:45:19.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Notifications.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Notifications.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Notifications.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Notifications.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:55:10.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EnrolmentDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\EnrolmentDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\EnrolmentDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\EnrolmentDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\EnrolmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:12:52.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Controllers\\InstructorsController.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "OLMS Project\\Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:44:42.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\CourseDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\CourseDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\CourseDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:28:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssignmentDto.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\AssignmentDto.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Dto\\AssignmentDto.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Dto\\AssignmentDto.cs",
+              "RelativeToolTip": "OLMS Project\\Dto\\AssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:15:19.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Assignments.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Assignments.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Assignments.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Assignments.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Assignments.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:40:38.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Admins.cs",
+              "DocumentMoniker": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Admins.cs",
+              "RelativeDocumentMoniker": "OLMS Project\\Models\\Admins.cs",
+              "ToolTip": "D:\\wiprotraining\\OLMS Project\\OLMS Project\\OLMS Project\\Models\\Admins.cs",
+              "RelativeToolTip": "OLMS Project\\Models\\Admins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:29:47.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
