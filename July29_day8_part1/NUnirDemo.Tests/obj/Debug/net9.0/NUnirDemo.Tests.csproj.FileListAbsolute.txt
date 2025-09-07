@@ -1,0 +1,5 @@
+D:\wiprotraining\day8\NUnirDemo.Tests\obj\Debug\net9.0\NUnirDemo.Tests.csproj.AssemblyReference.cache
+D:\wiprotraining\day8\NUnirDemo.Tests\obj\Debug\net9.0\NUnirDemo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\day8\NUnirDemo.Tests\obj\Debug\net9.0\NUnirDemo.Tests.AssemblyInfoInputs.cache
+D:\wiprotraining\day8\NUnirDemo.Tests\obj\Debug\net9.0\NUnirDemo.Tests.AssemblyInfo.cs
+D:\wiprotraining\day8\NUnirDemo.Tests\obj\Debug\net9.0\NUnirDemo.Tests.csproj.CoreCompileInputs.cache

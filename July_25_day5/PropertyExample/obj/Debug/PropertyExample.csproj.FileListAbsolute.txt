@@ -1,0 +1,8 @@
+D:\wiprotraining\day5\PropertyExample\bin\Debug\PropertyExample.exe.config
+D:\wiprotraining\day5\PropertyExample\bin\Debug\PropertyExample.exe
+D:\wiprotraining\day5\PropertyExample\bin\Debug\PropertyExample.pdb
+D:\wiprotraining\day5\PropertyExample\obj\Debug\PropertyExample.csproj.AssemblyReference.cache
+D:\wiprotraining\day5\PropertyExample\obj\Debug\PropertyExample.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day5\PropertyExample\obj\Debug\PropertyExample.exe
+D:\wiprotraining\day5\PropertyExample\obj\Debug\PropertyExample.pdb
+D:\wiprotraining\day5\PropertyExample\obj\Debug\PropertyExample.exe.config

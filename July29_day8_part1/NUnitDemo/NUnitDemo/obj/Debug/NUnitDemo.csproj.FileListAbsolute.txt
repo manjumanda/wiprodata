@@ -1,0 +1,2 @@
+D:\wiprotraining\day8\NUnitDemo\NUnitDemo\obj\Debug\NUnitDemo.csproj.AssemblyReference.cache
+D:\wiprotraining\day8\NUnitDemo\NUnitDemo\obj\Debug\NUnitDemo.csproj.CoreCompileInputs.cache
